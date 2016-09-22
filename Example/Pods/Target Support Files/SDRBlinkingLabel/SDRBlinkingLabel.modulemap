@@ -1,0 +1,6 @@
+framework module SDRBlinkingLabel {
+  umbrella header "SDRBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

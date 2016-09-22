@@ -1,0 +1,16 @@
+PODS:
+  - SDRBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - SDRBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  SDRBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDRBlinkingLabel: 6f96d0c5a6adf30d30ba8607b26b80b929c2b6e8
+
+PODFILE CHECKSUM: e8a295d9a59e6f7e19f54ea547714e7edb1d347f
+
+COCOAPODS: 1.0.1
