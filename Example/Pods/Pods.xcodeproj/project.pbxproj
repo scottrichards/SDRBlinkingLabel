@@ -8,14 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		2B8AFF2F4E354F29E516ED43E7531BF0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		7574E069EC7C96F0A8B07F05EDA6C2A9 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37EFD3DB22C92E07B981B6968CB9C00 /* ReplaceMe.swift */; };
+		537E2F65967BD348C417FF416715BE1C /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BD341831FAB7CC1702EE2647340F01 /* ReplaceMe.swift */; };
+		68D0AD2CC3768F003A943C27AC1AB1DF /* SDRBlinkingLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BB596616DE16A3A6638C0CE7B925D03D /* SDRBlinkingLabel-dummy.m */; };
 		9FA18B1C0DB14225B48CE2DB73BE6E06 /* Pods-SDRBlinkingLabel_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E10B62ADAB4E4BE4B7B183FC5B342D8E /* Pods-SDRBlinkingLabel_Tests-dummy.m */; };
 		BAA4368CA09020B6085C895DAC1AA9BC /* SDRBlinkingLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B2901FAB557F80809C902128584ACFAA /* SDRBlinkingLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C6DC79EA42FC074BCF9170630617F338 /* SDRBlinkingLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BB596616DE16A3A6638C0CE7B925D03D /* SDRBlinkingLabel-dummy.m */; };
 		C71404C56A2F5EDDFE86F058599F125D /* Pods-SDRBlinkingLabel_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DA4A97034497572C0239754F3AB0FC7C /* Pods-SDRBlinkingLabel_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CCF8B2DE464804CA5F14B0B30C7A7466 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		CE3E8EDA912EBEE7C5A52E08854B9EAF /* Pods-SDRBlinkingLabel_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA6AC76EA85DEF070FB7E6239BCB79B9 /* Pods-SDRBlinkingLabel_Example-dummy.m */; };
 		EEEB164B60209B6CCE5EDCA17EDACD16 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		F23301FFD7C8FB8512640064D0F02F48 /* BlinkingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7341F67E8188B4CF0FEDD795E8960A2 /* BlinkingLabel.swift */; };
 		F3B845D6590BB7DF4578B4C88721A67B /* Pods-SDRBlinkingLabel_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D5FEA6D7AA0D5D8A67E04BEAD208B71 /* Pods-SDRBlinkingLabel_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -49,10 +50,11 @@
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97DD7D555C90EDAD9B4DAB088903F3A4 /* Pods-SDRBlinkingLabel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SDRBlinkingLabel_Example.modulemap"; sourceTree = "<group>"; };
 		9C682A5F931CF5C6E60CCDD8B7F1D670 /* Pods-SDRBlinkingLabel_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SDRBlinkingLabel_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A3BD341831FAB7CC1702EE2647340F01 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		A46230D29039276939510871571C978A /* Pods-SDRBlinkingLabel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SDRBlinkingLabel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		A7341F67E8188B4CF0FEDD795E8960A2 /* BlinkingLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BlinkingLabel.swift; sourceTree = "<group>"; };
 		AA6AC76EA85DEF070FB7E6239BCB79B9 /* Pods-SDRBlinkingLabel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SDRBlinkingLabel_Example-dummy.m"; sourceTree = "<group>"; };
 		B2901FAB557F80809C902128584ACFAA /* SDRBlinkingLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDRBlinkingLabel-umbrella.h"; sourceTree = "<group>"; };
-		B37EFD3DB22C92E07B981B6968CB9C00 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		BA9AE37C10FE0EE08DDED46ED8C74B4E /* Pods-SDRBlinkingLabel_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SDRBlinkingLabel_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BB596616DE16A3A6638C0CE7B925D03D /* SDRBlinkingLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDRBlinkingLabel-dummy.m"; sourceTree = "<group>"; };
 		C4D6E784EE40B5BD9FE03326E93BF895 /* Pods-SDRBlinkingLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SDRBlinkingLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -131,7 +133,7 @@
 		0C11B849BF05DFABA55E143C0C83E524 /* SDRBlinkingLabel */ = {
 			isa = PBXGroup;
 			children = (
-				2206921F3D8EBB57BA85030824B80754 /* SDRBlinkingLabel */,
+				90A6995D6B2AEE15DC78EDBCE8DCD898 /* SDRBlinkingLabel */,
 				741C7E9D2B5078899A0F43A595273395 /* Support Files */,
 			);
 			name = SDRBlinkingLabel;
@@ -145,22 +147,6 @@
 				02A87350210FBAA7D3441F1187D3C198 /* Pods-SDRBlinkingLabel_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		2206921F3D8EBB57BA85030824B80754 /* SDRBlinkingLabel */ = {
-			isa = PBXGroup;
-			children = (
-				31100AD48F27407415C49904166403BD /* Classes */,
-			);
-			path = SDRBlinkingLabel;
-			sourceTree = "<group>";
-		};
-		31100AD48F27407415C49904166403BD /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				B37EFD3DB22C92E07B981B6968CB9C00 /* ReplaceMe.swift */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
@@ -204,6 +190,14 @@
 			);
 			sourceTree = "<group>";
 		};
+		90A6995D6B2AEE15DC78EDBCE8DCD898 /* SDRBlinkingLabel */ = {
+			isa = PBXGroup;
+			children = (
+				E55D3467F200287AB1EB6185B17E5FA7 /* Classes */,
+			);
+			path = SDRBlinkingLabel;
+			sourceTree = "<group>";
+		};
 		926671B637325D7049153E0483B84F1A /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -220,6 +214,15 @@
 				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E55D3467F200287AB1EB6185B17E5FA7 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A7341F67E8188B4CF0FEDD795E8960A2 /* BlinkingLabel.swift */,
+				A3BD341831FAB7CC1702EE2647340F01 /* ReplaceMe.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,7 +294,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CEA778BC939392E4361E873CD139DE46 /* Build configuration list for PBXNativeTarget "SDRBlinkingLabel" */;
 			buildPhases = (
-				D299B3203B46579A6FE88FADB09D2698 /* Sources */,
+				87EF338E6B7981D5D000430F79F36AE6 /* Sources */,
 				44D62438F2D0D41A6E326FC4348EA8C0 /* Frameworks */,
 				AC29495624BB43120340AA86524FA1E1 /* Headers */,
 			);
@@ -341,20 +344,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		87EF338E6B7981D5D000430F79F36AE6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F23301FFD7C8FB8512640064D0F02F48 /* BlinkingLabel.swift in Sources */,
+				537E2F65967BD348C417FF416715BE1C /* ReplaceMe.swift in Sources */,
+				68D0AD2CC3768F003A943C27AC1AB1DF /* SDRBlinkingLabel-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B7215E382C2504E4E02097C6A30E8F9C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				CE3E8EDA912EBEE7C5A52E08854B9EAF /* Pods-SDRBlinkingLabel_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D299B3203B46579A6FE88FADB09D2698 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7574E069EC7C96F0A8B07F05EDA6C2A9 /* ReplaceMe.swift in Sources */,
-				C6DC79EA42FC074BCF9170630617F338 /* SDRBlinkingLabel-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

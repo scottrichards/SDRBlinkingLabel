@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SDRBlinkingLabel: 6f96d0c5a6adf30d30ba8607b26b80b929c2b6e8
+  SDRBlinkingLabel: 79d4d98cc36a1247dfeef608fd342c2d13c2d777
 
 PODFILE CHECKSUM: e8a295d9a59e6f7e19f54ea547714e7edb1d347f
 

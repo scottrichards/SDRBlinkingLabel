@@ -1,9 +1,9 @@
 {
   "name": "SDRBlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of SDRBlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/SDRBlinkingLabel",
+  "summary": "A subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://github.com/scottrichards/SDRBlinkingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Scott Richards": "scott.srichards@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/SDRBlinkingLabel.git",
+    "git": "https://github.com/scottrichards/SDRBlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
