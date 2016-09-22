@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SDRBlinkingLabel_Example' do
+  pod 'SDRBlinkingLabel', :path => '../'
+
+  target 'SDRBlinkingLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
